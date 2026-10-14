@@ -52,7 +52,9 @@ El resultado queda en `publish\SistemaCodice.exe`.
 | Estudiante | `marta@codice.cl` | `estudiante123` |
 
 Los estudiantes nuevos reciben como contraseña inicial su RUT sin puntos, guion ni dígito verificador.
-Son datos de demostración que se crean la primera vez que se ejecuta la aplicación.
+> **Nota sobre los datos:** los nombres, RUT, correos, contraseñas, notas y asistencias incluidos son
+> ficticios y existen únicamente para probar el comportamiento del programa. Se crean la primera vez que se
+> ejecuta la aplicación y no corresponden a personas reales.
 
 ## Estructura del proyecto
 
