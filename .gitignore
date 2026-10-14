@@ -1,0 +1,25 @@
+# Compilación
+bin/
+obj/
+publish/
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Bases de datos locales y respaldos (se generan al ejecutar la aplicación)
+*.db
+*.db.bak
+*.db-journal
+datos.json
+datos.json.bak
+
+# Resultados de pruebas
+TestResults/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
